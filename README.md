@@ -1,0 +1,3 @@
+# Malaysia-Airlines-Reservation-Database-Design
+
+This assignment requires students to design, implement, and document a database system for the Malaysia Airlines Reservation System, applying redundancy control and demonstrating solutions with appropriate tools. It involves creating a central database to serve multiple booking offices for different airlines and states, managing flight details, staff, customers, and bookings. Deliverables include designing an Entity Relationship Diagram, generating a database schema, performing normalization up to 3NF, and executing Data Manipulation Language queries for specific scenarios related to the business case. 
